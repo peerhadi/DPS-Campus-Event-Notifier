@@ -1,0 +1,30 @@
+{
+  "name": "campus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.10.0",
+    "axios-cookiejar-support": "^6.0.2",
+    "chrono-node": "^2.8.3",
+    "dotenv": "^16.5.0",
+    "ics": "^3.8.1",
+    "inquirer": "^12.6.3",
+    "nodemailer": "^7.0.3",
+    "tough-cookie": "^5.1.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "@types/nodemailer": "^6.4.17",
+    "cheerio": "^1.1.0"
+  }
+}
