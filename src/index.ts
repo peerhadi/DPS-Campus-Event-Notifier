@@ -210,6 +210,7 @@ async function main() {
         'shazya.manzoor@gmail.com',
         'maizahtaha2012@gmail.com',
         'tawushafeez@gmail.com',
+        'zayaantaha@icloud.com',
       ],
       validate: input => input.length ? true : 'Select at least one email.',
     },
